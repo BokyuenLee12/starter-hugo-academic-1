@@ -7,11 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
   - name: Research
-    url: '#posts'
+    url: '#featured'   # 或 '#publications'，取决于你首页widget文件名
     weight: 20
+
   - name: CV
-    url: '#projects'
+    url: 'uploads/resume.pdf'
     weight: 30
   #- name: Talks
   #  url: '#talks'
