@@ -13,7 +13,7 @@ main:
     weight: 20
 
   - name: CV
-    url: 'uploads/resume.pdf'
+    url: 'static/uploads/You%20Qu_CV.pdf'
     weight: 30
   #- name: Talks
   #  url: '#talks'
