@@ -5,11 +5,11 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
 
   - name: Research
-    url: '#featured'   # 或 '#publications'，取决于你首页widget文件名
+    url: '/research/'
     weight: 20
 
   - name: CV
